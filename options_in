@@ -1,0 +1,6 @@
+-i nmea,gpvtg=1
+-s
+-w
+-o unicsv
+-t
+-x track,course,speed

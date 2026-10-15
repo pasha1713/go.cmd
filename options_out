@@ -1,0 +1,6 @@
+-i unicsv
+-x track,start=20190826054500,stop=20190826054630
+-o kml,deficon=Speed:,floating=1,extrude=1,trackdirection=1,units=m
+-w
+-s
+-t
